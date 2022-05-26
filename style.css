@@ -1,0 +1,94 @@
+body {
+   margin:0;
+   
+   
+   
+}
+.container1 {
+background-color:#F7F5F2;
+width:100%;
+position: relative;
+
+}
+
+.tablecontainer {
+   background-color: #F7F5F2;
+}
+.container2 {
+   background-color:#F7F5F2;
+}
+.icon3 {
+   height:50px;
+   position:relative;
+   top:15px;
+ 
+}
+ .ph {
+    margin:auto;
+    padding:30px;
+    font-size:25px;
+    color:black;
+    font-weight: bolder;
+ }   
+.techorbittext {
+   font-size: 160px;
+   position: relative;
+   left:21%;
+   color:#242F9B;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+display: inline-block;
+   margin:0;
+   
+}
+.quote {
+    position:relative;
+   right:14%;
+   top:50px;
+    font-size:35px;
+    color:#242F9B;
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    display:inline-block;
+    margin-bottom: 150px;
+}
+.vector1 {
+   
+   margin-right: 45px; 
+}
+.vector2 {
+   margin-right: 55px;
+}
+.VECTOR {
+   margin-right: 55px;
+}
+.vector4 {
+   height: 190px;
+   margin-left: 50px;
+   margin-right: 70px;
+}
+.vector6 {
+   height: 170px;
+   width:200px
+}
+.o {
+  font-size: 120px;
+}
+.contact {
+   margin-top:0;
+   margin-left: 49%;
+   margin-bottom: 10px;
+   font-size: 30px;
+   font-weight: bolder;
+}
+.contactdetails {
+margin-left:45%;
+margin-top:0;
+margin-bottom: 0;
+font-size:20px;   
+}
+.ph2{
+   margin-left: 49%;
+   font-size:20px;
+   margin-top:5px; 
+   margin-bottom: 0;
+}
+
